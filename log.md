@@ -49,11 +49,11 @@
 
 ### Day 4: January 11, 2017 (Example 5):
 
-**Today's Progress**: 
+**Today's Progress**: Day 2 of FCC's Weather App Work
 
-**Thoughts**: 
+**Thoughts**: I could understand how to use APIs and JSON by watching someone lese do it it was explained to me.   I feel like I had a 'duh!' moment.
 
-**Link(s) to work**: []()
+**Link(s) to work**: One more day and it will be ready.
 
 
 ### Day 4: January 11, 2017 (Example 5):
