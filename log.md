@@ -40,10 +40,10 @@
 
 ### Day 4: January 11, 2017 (Example 5):
 
-**Today's Progress**: 
+**Today's Progress**: Restarted FCC's Weather App.
 
-**Thoughts**: 
-**Link(s) to work**: []()
+**Thoughts**: I watched a youtube video that explained better the use of apis and JSON.  My UI looks better than before tomorrow tackling the actual JS.
+**Link(s) to work**: None yet.
 
 
 ### Day 4: January 11, 2017 (Example 5):
