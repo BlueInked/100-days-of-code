@@ -47,7 +47,7 @@
 **Link(s) to work**: None yet.
 
 
-### Day 5: January 11, 2017 (Example 5a):
+### Day 5: January 12, 2017 (Example 5a):
 
 **Today's Progress**: Day 2 of FCC's Weather App Work
 
