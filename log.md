@@ -56,13 +56,13 @@
 **Link(s) to work**: One more day and it will be ready.
 
 
-### Day 4: January 11, 2017 (Example 5):
+### Day 6: January 13, 2017 (Example 5b):
 
-**Today's Progress**: 
+**Today's Progress**: Day 3 of the Weather App 
 
-**Thoughts**: 
+**Thoughts**: Stopped myself befre I got fustrated again, I know I'm so close to finishing.  The UI looks better and I knw there's probably a typo hanging me up somewhere.
 
-**Link(s) to work**: []()
+**Link(s) to work**: Not Yet...
 
 
 ### Day 4: January 11, 2017 (Example 5):
