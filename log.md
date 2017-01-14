@@ -65,13 +65,13 @@
 **Link(s) to work**: Not Yet...
 
 
-### Day 4: January 11, 2017 (Example 5):
+### Day 7: January 14, 2017 (Example 5c):
 
-**Today's Progress**: 
+**Today's Progress**: Hooray!  Finished Weather App
 
-**Thoughts**: 
+**Thoughts**: There's still some bug where everytme you click the button it prints more weather icons....I dunno why yet, but hell it works!
 
-**Link(s) to work**: []()
+**Link(s) to work**: [FCC Weather App](http://codepen.io/SBisBlueInked/full/ZpvdaA/)
 
 
 ### Day 4: January 11, 2017 (Example 5):
