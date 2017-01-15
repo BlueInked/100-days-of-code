@@ -74,13 +74,13 @@
 **Link(s) to work**: [FCC Weather App](http://codepen.io/SBisBlueInked/full/ZpvdaA/)
 
 
-### Day 4: January 11, 2017 (Example 5):
+### Day 8: January 15, 2017 (Example 6):
 
-**Today's Progress**: 
+**Today's Progress**: Worked on a spoof of the Google Homepage.   Learned somthings about Bootstrap, going to use this sort of as a templae for my Wikipedia viewer for FCC
 
-**Thoughts**: 
+**Thoughts**: Bootstrap made laying things out a lt easier, I can see why people use it
 
-**Link(s) to work**: []()
+**Link(s) to work**: [Spoofoogle](http://codepen.io/SBisBlueInked/full/oBzYbx/)
 
 
 ### Day 4: January 11, 2017 (Example 5):
