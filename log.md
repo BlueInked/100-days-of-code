@@ -83,13 +83,13 @@
 **Link(s) to work**: [Spoofoogle](http://codepen.io/SBisBlueInked/full/oBzYbx/)
 
 
-### Day 4: January 11, 2017 (Example 5):
+### Day 9: January 16, 2017 (Example 7):
 
-**Today's Progress**: 
+**Today's Progress**:  Moved on to the FCC Wikipedia viewer.  I have the UI all done and the random page button works.  Tomorrow the api call 
 
-**Thoughts**: 
+**Thoughts**: I feel like this one won't take as long as the weather app.  Alredy got a variable in the api call,  just have to pull it all togther.
 
-**Link(s) to work**: []()
+**Link(s) to work**: Finishing Tomorrow...
 
 
 ### Day 4: January 11, 2017 (Example 5):
