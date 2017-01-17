@@ -92,13 +92,13 @@
 **Link(s) to work**: Finishing Tomorrow...
 
 
-### Day 4: January 11, 2017 (Example 5):
+### Day 10: January 17, 2017 (Example 7a):
 
-**Today's Progress**: 
+**Today's Progress**: Finished the wikipedia viewer
 
-**Thoughts**: 
+**Thoughts**: YAY!
 
-**Link(s) to work**: []()
+**Link(s) to work**: [Wikipedia Viewer](http://codepen.io/SBisBlueInked/full/YNGMvz/)
 
 
 ### Day 4: January 11, 2017 (Example 5):
