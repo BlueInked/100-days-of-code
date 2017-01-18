@@ -101,13 +101,13 @@
 **Link(s) to work**: [Wikipedia Viewer](http://codepen.io/SBisBlueInked/full/YNGMvz/)
 
 
-### Day 4: January 11, 2017 (Example 5):
+### Day 12: January 18, 2017 (Example 8):
 
-**Today's Progress**: 
+**Today's Progress**Coded along with Javascript 30's second project and then studied and took notes on CSS, Python, and Java.  Listened to the User Stories for the Twitch Project on FCC.
 
-**Thoughts**: 
+**Thoughts**: Took it easy today but stuck with coding/programming work.
 
-**Link(s) to work**: []()
+**Link(s) to work**: [Ticking Clock](javascript-journey/30DaysofJavascript/index-clock.html)
 
 
 ### Day 4: January 11, 2017 (Example 5):
