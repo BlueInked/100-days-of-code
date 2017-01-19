@@ -110,6 +110,60 @@
 **Link(s) to work**: [Ticking Clock](javascript-journey/30DaysofJavascript/index-clock.html)
 
 
+### Day 13: January 19, 2017 (Example 9):
+
+**Today's Progress**: I started working on FCC's TwitchTV api
+
+**Thoughts**: Ugh, I can't seem to get the workaround to actually work...
+
+**Link(s) to work**: Not Yet!
+
+
+### Day 4: January 11, 2017 (Example 5):
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: []()
+
+
+### Day 4: January 11, 2017 (Example 5):
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: []()
+
+
+### Day 4: January 11, 2017 (Example 5):
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: []()
+
+
+### Day 4: January 11, 2017 (Example 5):
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: []()
+
+
+### Day 4: January 11, 2017 (Example 5):
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: []()
+
+
 ### Day 4: January 11, 2017 (Example 5):
 
 **Today's Progress**: 
