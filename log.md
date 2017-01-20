@@ -119,13 +119,13 @@
 **Link(s) to work**: Not Yet!
 
 
-### Day 4: January 11, 2017 (Example 5):
+### Day 14: January 20, 2017 (Example 9a):
 
-**Today's Progress**: 
+**Today's Progress**: Worked on the Twitch TV app
 
-**Thoughts**: 
+**Thoughts**: Aggravated that one small typo alluded me for an hour, but I wanted the first part of the code to work before moving on to the next.
 
-**Link(s) to work**: []()
+**Link(s) to work**: Tomorrow for Sure
 
 
 ### Day 4: January 11, 2017 (Example 5):
