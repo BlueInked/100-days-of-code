@@ -101,7 +101,7 @@
 **Link(s) to work**: [Wikipedia Viewer](http://codepen.io/SBisBlueInked/full/YNGMvz/)
 
 
-### Day 12: January 18, 2017 (Example 8):
+### Day 11: January 18, 2017 (Example 8):
 
 **Today's Progress**Coded along with Javascript 30's second project and then studied and took notes on CSS, Python, and Java.  Listened to the User Stories for the Twitch Project on FCC.
 
@@ -110,7 +110,7 @@
 **Link(s) to work**: [Ticking Clock](javascript-journey/30DaysofJavascript/index-clock.html)
 
 
-### Day 13: January 19, 2017 (Example 9):
+### Day 12: January 19, 2017 (Example 9):
 
 **Today's Progress**: I started working on FCC's TwitchTV api
 
@@ -119,7 +119,7 @@
 **Link(s) to work**: Not Yet!
 
 
-### Day 14: January 20, 2017 (Example 9a):
+### Day 13: January 20, 2017 (Example 9a):
 
 **Today's Progress**: Worked on the Twitch TV app
 
