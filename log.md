@@ -125,16 +125,16 @@
 
 **Thoughts**: Aggravated that one small typo alluded me for an hour, but I wanted the first part of the code to work before moving on to the next.
 
-**Link(s) to work**: Tomorrow for Sure
+**Link(s) to work**: Nope!
 
 
-### Day 4: January 11, 2017 (Example 5):
+### Day 14: January 21, 2017 (Example 9b):
 
-**Today's Progress**: 
+**Today's Progress**: Worked More onthe TwitchTV App 
 
-**Thoughts**: 
+**Thoughts**: Super frustrating, but nothing worthwhile is a cinch....
 
-**Link(s) to work**: []()
+**Link(s) to work**:God willing, tomorrow....
 
 
 ### Day 4: January 11, 2017 (Example 5):
