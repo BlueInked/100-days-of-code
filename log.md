@@ -137,6 +137,114 @@
 **Link(s) to work**:God willing, tomorrow....
 
 
+### Day 15: January 22, 2017 (Example 9c):
+
+**Today's Progress**: Finished TwitchTv Project
+
+**Thoughts**: Broke out some if /else statements to fix some issues I was having, want to go back and clean up the aestethic
+
+**Link(s) to work**: [ TwitchTV ](http://codepen.io/SBisBlueInked/full/RKpwRg/)
+
+
+### Day 16: January 23, 2017 (Example 10):
+
+**Today's Progress**: JavaScript 30 Day Three Code-Along
+
+**Thoughts**: I have a lot of CSS to learn
+
+**Link(s) to work**: [CSS and Variable Changes](javascript-journey/30DaysofJavascript/index-Along.html)
+
+
+### Day 4: January 11, 2017 (Example 5):
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: []()
+
+
+### Day 4: January 11, 2017 (Example 5):
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: []()
+
+
+### Day 4: January 11, 2017 (Example 5):
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: []()
+
+
+### Day 4: January 11, 2017 (Example 5):
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: []()
+
+
+### Day 4: January 11, 2017 (Example 5):
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: []()
+
+
+### Day 4: January 11, 2017 (Example 5):
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: []()
+
+
+### Day 4: January 11, 2017 (Example 5):
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: []()
+
+
+### Day 4: January 11, 2017 (Example 5):
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: []()
+
+
+### Day 4: January 11, 2017 (Example 5):
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: []()
+
+
+### Day 4: January 11, 2017 (Example 5):
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: []()
+
+
 ### Day 4: January 11, 2017 (Example 5):
 
 **Today's Progress**: 
