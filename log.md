@@ -155,43 +155,43 @@
 **Link(s) to work**: [CSS and Variable Changes](javascript-journey/30DaysofJavascript/index-Along.html)
 
 
-### Day 4: January 11, 2017 (Example 5):
+### Day 17: January 24, 2017 (Example):
 
-**Today's Progress**: 
+**Today's Progress**: Intermediate Algorithm I and ES6 Arrows
 
-**Thoughts**: 
+**Thoughts**: I still need work on algorithms
 
-**Link(s) to work**: []()
-
-
-### Day 4: January 11, 2017 (Example 5):
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Link(s) to work**: []()
+**Link(s) to work**: N/A
 
 
-### Day 4: January 11, 2017 (Example 5):
+### Day 18: January 25, 2017 (Example):
 
-**Today's Progress**: 
+**Today's Progress**: Found a Site to Prectice Python, dunn why problem solving for Python easier for me than JS. Also algorithm II.
 
-**Thoughts**: 
+**Thoughts**: I think I'm psyching myself out.
 
-**Link(s) to work**: []()
-
-
-### Day 4: January 11, 2017 (Example 5):
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Link(s) to work**: []()
+**Link(s) to work**: N/A
 
 
-### Day 4: January 11, 2017 (Example 5):
+### Day 19: January 26, 2017 (Example):
+
+**Today's Progress**: Algorithm III and more reading
+
+**Thoughts**: I wat a way to keep track of methods and what they do.
+
+**Link(s) to work**: N/A
+
+
+### Day 20: January 27, 2017 (Example 11):
+
+**Today's Progress**: Did Javascript30 Day 4 Array WorkOut
+
+**Thoughts**: It was great practice for both methods and ES6 arrows
+
+**Link(s) to work**: [Arrays](javascript-journey/30DaysofJavascript/index-ArrayWork.html)
+
+
+### Day 21: January 28, 2017 (Example ):
 
 **Today's Progress**: 
 
