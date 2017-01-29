@@ -191,16 +191,16 @@
 **Link(s) to work**: [Arrays](javascript-journey/30DaysofJavascript/index-ArrayWork.html)
 
 
-### Day 21: January 28, 2017 (Example ):
+### Day 21: January 28, 2017 (Example 12):
 
-**Today's Progress**: 
+**Today's Progress**: Practice Python Problem I
 
-**Thoughts**: 
+**Thoughts**: I just get Python so much better than JS, I need deep hypnosis to stop thinking that way.
 
-**Link(s) to work**: []()
+**Link(s) to work**: [Turning 100](python-pit/practice_python_excercises/Character_Input_001.py)
 
 
-### Day 4: January 11, 2017 (Example 5):
+### Day 22: January 29, 2017 (Example 13):
 
 **Today's Progress**: 
 
