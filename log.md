@@ -166,7 +166,7 @@
 
 ### Day 18: January 25, 2017 (Example):
 
-**Today's Progress**: Found a Site to Prectice Python, dunn why problem solving for Python easier for me than JS. Also algorithm II.
+**Today's Progress**: Found a Site to Practice Python, dunno why problem solving for Python easier for me than JS. Also algorithm II.
 
 **Thoughts**: I think I'm psyching myself out.
 
@@ -202,43 +202,43 @@
 
 ### Day 22: January 29, 2017 (Example 13):
 
-**Today's Progress**: 
+**Today's Progress**: Intermediate Algorithm, Practice Python, Javascript30
 
-**Thoughts**: 
+**Thoughts**: Good schedule
 
-**Link(s) to work**: []()
-
-
-### Day 4: January 11, 2017 (Example 5):
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Link(s) to work**: []()
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
 
 
-### Day 4: January 11, 2017 (Example 5):
+### Day 23: January 30, 2017 (Example 14):
 
-**Today's Progress**: 
+**Today's Progress**: Intermediate Algorithm, Practice Python, Javascript30
 
-**Thoughts**: 
+**Thoughts**: Good schedule
 
-**Link(s) to work**: []()
-
-
-### Day 4: January 11, 2017 (Example 5):
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Link(s) to work**: []()
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
 
 
-### Day 4: January 11, 2017 (Example 5):
+### Day 24: January 31, 2017 (Example 15):
 
-**Today's Progress**: 
+**Today's Progress**: Intermediate Algorithm, Practice Python, Javascript30
+
+**Thoughts**: Good schedule
+
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+
+
+### Day 25: February 1, 2017 (Example 16):
+
+**Today's Progress**: Intermediate Algorithm, Practice Python, Javascript30
+
+**Thoughts**: Practice Python hiccup, back at it tomorrow
+
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+
+
+### Day 26: February 2, 2017 (Example 5):
+
+**Today's Progress**: Intermediate Algorithm, Practice Python, Javascript30
 
 **Thoughts**: 
 
