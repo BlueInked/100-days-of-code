@@ -236,13 +236,13 @@
 **Link(s) to work**: [Profile](https://github.com/BlueInked/)
 
 
-### Day 26: February 2, 2017 (Example 5):
+### Day 26: February 2, 2017 (Example 17):
 
 **Today's Progress**: Intermediate Algorithm, Practice Python, Javascript30
 
-**Thoughts**: 
+**Thoughts**: Finished the PP with three functions, so happy!
 
-**Link(s) to work**: []()
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
 
 
 ### Day 4: January 11, 2017 (Example 5):
