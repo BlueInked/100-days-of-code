@@ -245,22 +245,22 @@
 **Link(s) to work**: [Profile](https://github.com/BlueInked/)
 
 
-### Day 4: January 11, 2017 (Example 5):
+### Day 27: February 3, 2017 (Example 18):
 
-**Today's Progress**: 
+**Today's Progress**: Did another algorithm and Read from Beginning Javascript Tetbook
 
-**Thoughts**: 
+**Thoughts**: I feel like thing are sinking in the more I do them.
 
-**Link(s) to work**: []()
+**Link(s) to work**:[Profile](https://github.com/BlueInked/)
 
 
-### Day 4: January 11, 2017 (Example 5):
+### Day 28: February 4, 2017 (Example 19):
 
-**Today's Progress**: 
+**Today's Progress**: Algorithm, Palindrom Python Problem and Day 10 of Javasript 30
 
-**Thoughts**: 
+**Thoughts**: Python > JS as far as ease, but I now that learning JS will be well worth it.
 
-**Link(s) to work**: []()
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
 
 
 ### Day 4: January 11, 2017 (Example 5):
