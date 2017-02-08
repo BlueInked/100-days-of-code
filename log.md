@@ -263,19 +263,129 @@
 **Link(s) to work**: [Profile](https://github.com/BlueInked/)
 
 
-### Day 4: January 11, 2017 (Example 5):
+### Day 29: February 5, 2017 (Example 20):
 
-**Today's Progress**: 
+**Today's Progress**: Algorithm, Palindrom Python Problem and Day 11 of Javasript 30
 
-**Thoughts**: 
+**Thoughts**: Think I'm gonna take a break from JS30
 
-**Link(s) to work**: []()
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
 
 
-### Day 4: January 11, 2017 (Example 5):
+### Day 30: February 6, 2017 (Example 21):
 
-**Today's Progress**: 
+**Today's Progress**: Algorithm, Palindrom Python Problem and 2 SoloLearn Modules
 
-**Thoughts**: 
+**Thoughts**: Python Flled Day
 
-**Link(s) to work**: []()
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+
+
+### Day 31: February 7, 2017 (Example 22):
+
+**Today's Progress**: Algorithm, Palindrome Python Problem and Finished TDKJS: Up and Going
+
+**Thoughts**: I'm going to try to put more reading in the days to come
+
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+
+
+### Day 32: February 8, 2017 ():
+
+**Today's Progress**: Algorithm and started "YDKJS: Types and Grammar" and "Data Structures and Algorithms with Javascript"
+
+**Thoughts**: More reading that coding, but still learning
+
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+
+
+### Day 33: February 9, 2017 ():
+
+**Today's Progress**: Algorithm and started "YDKJS: Types and Grammar" and "Data Structures and Algorithms with Javascript"
+
+**Thoughts**: More reading that coding, but still learning
+
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+
+
+### Day 32: February 8, 2017 ():
+
+**Today's Progress**: Algorithm and started "YDKJS: Types and Grammar" and "Data Structures and Algorithms with Javascript"
+
+**Thoughts**: More reading that coding, but still learning
+
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+
+
+### Day 32: February 8, 2017 ():
+
+**Today's Progress**: Algorithm and started "YDKJS: Types and Grammar" and "Data Structures and Algorithms with Javascript"
+
+**Thoughts**: More reading that coding, but still learning
+
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+
+
+### Day 32: February 8, 2017 ():
+
+**Today's Progress**: Algorithm and started "YDKJS: Types and Grammar" and "Data Structures and Algorithms with Javascript"
+
+**Thoughts**: More reading that coding, but still learning
+
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+
+
+### Day 32: February 8, 2017 ():
+
+**Today's Progress**: Algorithm and started "YDKJS: Types and Grammar" and "Data Structures and Algorithms with Javascript"
+
+**Thoughts**: More reading that coding, but still learning
+
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+
+
+### Day 32: February 8, 2017 ():
+
+**Today's Progress**: Algorithm and started "YDKJS: Types and Grammar" and "Data Structures and Algorithms with Javascript"
+
+**Thoughts**: More reading that coding, but still learning
+
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+
+
+### Day 32: February 8, 2017 ():
+
+**Today's Progress**: Algorithm and started "YDKJS: Types and Grammar" and "Data Structures and Algorithms with Javascript"
+
+**Thoughts**: More reading that coding, but still learning
+
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+
+
+### Day 32: February 8, 2017 ():
+
+**Today's Progress**: Algorithm and started "YDKJS: Types and Grammar" and "Data Structures and Algorithms with Javascript"
+
+**Thoughts**: More reading that coding, but still learning
+
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+
+
+### Day 32: February 8, 2017 ():
+
+**Today's Progress**: Algorithm and started "YDKJS: Types and Grammar" and "Data Structures and Algorithms with Javascript"
+
+**Thoughts**: More reading that coding, but still learning
+
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+
+
+### Day 32: February 8, 2017 ():
+
+**Today's Progress**: Algorithm and started "YDKJS: Types and Grammar" and "Data Structures and Algorithms with Javascript"
+
+**Thoughts**: More reading that coding, but still learning
+
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+
+
