@@ -301,11 +301,11 @@
 
 ### Day 33: February 9, 2017 ():
 
-**Today's Progress**: Algorithm and started "YDKJS: Types and Grammar" and "Data Structures and Algorithms with Javascript"
+**Today's Progress**: "Drop It" Algorithm, Python Practice 11 and 12, Firecode.io problem 2, learned more about the built in sum function in python.
 
-**Thoughts**: More reading that coding, but still learning
+**Thoughts**: Not ignoring JS just having so much fun with Python.
 
-**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+**Link(s) to work**: [XII](python-pit/practice_python_excercises/ends.py)
 
 
 ### Day 32: February 8, 2017 ():
