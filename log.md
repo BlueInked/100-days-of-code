@@ -274,7 +274,7 @@
 
 ### Day 30: February 6, 2017 (Example 21):
 
-**Today's Progress**: Algorithm, Palindrom Python Problem and 2 SoloLearn Modules
+**Today's Progress**: Algorithm, Palindrome Python Problem and 2 SoloLearn Modules
 
 **Thoughts**: Python Flled Day
 
@@ -283,7 +283,7 @@
 
 ### Day 31: February 7, 2017 (Example 22):
 
-**Today's Progress**: Algorithm, Palindrome Python Problem and Finished TDKJS: Up and Going
+**Today's Progress**: Algorithm, Python Problem and Finished TDKJS: Up and Going
 
 **Thoughts**: I'm going to try to put more reading in the days to come
 
@@ -299,7 +299,7 @@
 **Link(s) to work**: [Profile](https://github.com/BlueInked/)
 
 
-### Day 33: February 9, 2017 ():
+### Day 33: February 9, 2017 (Example 23):
 
 **Today's Progress**: "Drop It" Algorithm, Python Practice 11 and 12, Firecode.io problem 2, learned more about the built in sum function in python.
 
