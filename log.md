@@ -308,20 +308,20 @@
 **Link(s) to work**: [XII](python-pit/practice_python_excercises/ends.py)
 
 
-### Day 32: February 8, 2017 ():
+### Day 34: February 10, 2017 ():
 
-**Today's Progress**: Algorithm and started "YDKJS: Types and Grammar" and "Data Structures and Algorithms with Javascript"
+**Today's Progress**: Algorithm 
 
-**Thoughts**: More reading that coding, but still learning
+**Thoughts**:  Lazy day but wanted to do something
 
 **Link(s) to work**: [Profile](https://github.com/BlueInked/)
 
 
-### Day 32: February 8, 2017 ():
+### Day 35: February 11, 2017 ():
 
-**Today's Progress**: Algorithm and started "YDKJS: Types and Grammar" and "Data Structures and Algorithms with Javascript"
+**Today's Progress**: Twwo algorithms and more reading
 
-**Thoughts**: More reading that coding, but still learning
+**Thoughts**: I hate when I get on the right track but can't figure out where to go from what I got...feels like two steps forward and then a step back or I'm too easily frustrated.
 
 **Link(s) to work**: [Profile](https://github.com/BlueInked/)
 
