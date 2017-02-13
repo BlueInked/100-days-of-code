@@ -319,29 +319,29 @@
 
 ### Day 35: February 11, 2017 ():
 
-**Today's Progress**: Twwo algorithms and more reading
+**Today's Progress**: Two algorithms and more reading
 
 **Thoughts**: I hate when I get on the right track but can't figure out where to go from what I got...feels like two steps forward and then a step back or I'm too easily frustrated.
 
 **Link(s) to work**: [Profile](https://github.com/BlueInked/)
 
 
-### Day 32: February 8, 2017 ():
+### Day 36: February 12, 2017 (24):
 
-**Today's Progress**: Algorithm and started "YDKJS: Types and Grammar" and "Data Structures and Algorithms with Javascript"
-
-**Thoughts**: More reading that coding, but still learning
-
-**Link(s) to work**: [Profile](https://github.com/BlueInked/)
-
-
-### Day 32: February 8, 2017 ():
-
-**Today's Progress**: Algorithm and started "YDKJS: Types and Grammar" and "Data Structures and Algorithms with Javascript"
+**Today's Progress**: Algorithm, Firecode.io and Practice Python
 
 **Thoughts**: More reading that coding, but still learning
 
-**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+**Link(s) to work**: [Reverse Order](python-pit/practice_python_excercises/reverse_word_order.py)
+
+
+### Day 37: February 13, 2017 (25):
+
+**Today's Progress**: Last Intermediate Algorithm, Practice Python 16, some CSS work
+
+**Thoughts**: I'm getting to the point where I like coding everyday.
+
+**Link(s) to work**: [Password Generator](python-pit/practice_python_excercises/password_generator.py)
 
 
 ### Day 32: February 8, 2017 ():
