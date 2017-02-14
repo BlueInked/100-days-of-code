@@ -335,7 +335,7 @@
 **Link(s) to work**: [Reverse Order](python-pit/practice_python_excercises/reverse_word_order.py)
 
 
-### Day 37: February 13, 2017 (25):
+### Day 37: February 13, 2017 (Example 25):
 
 **Today's Progress**: Last Intermediate Algorithm, Practice Python 16, some CSS work
 
@@ -344,11 +344,11 @@
 **Link(s) to work**: [Password Generator](python-pit/practice_python_excercises/password_generator.py)
 
 
-### Day 32: February 8, 2017 ():
+### Day 38: February 14, 2017 ():
 
-**Today's Progress**: Algorithm and started "YDKJS: Types and Grammar" and "Data Structures and Algorithms with Javascript"
+**Today's Progress**: Started the Advanced Algorithm section of FCC, read up on regular expressions
 
-**Thoughts**: More reading that coding, but still learning
+**Thoughts**: I still think a lot of study on javascript is needed.
 
 **Link(s) to work**: [Profile](https://github.com/BlueInked/)
 
