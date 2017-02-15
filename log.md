@@ -353,11 +353,11 @@
 **Link(s) to work**: [Profile](https://github.com/BlueInked/)
 
 
-### Day 32: February 8, 2017 ():
+### Day 39: February 15, 2017 ():
 
-**Today's Progress**: Algorithm and started "YDKJS: Types and Grammar" and "Data Structures and Algorithms with Javascript"
+**Today's Progress**: Algorithm and Practice Python introduced modules 
 
-**Thoughts**: More reading that coding, but still learning
+**Thoughts**: LEarning more about modules and reading language doc to learn about functionality.
 
 **Link(s) to work**: [Profile](https://github.com/BlueInked/)
 
