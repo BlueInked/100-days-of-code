@@ -362,30 +362,82 @@
 **Link(s) to work**: [Profile](https://github.com/BlueInked/)
 
 
-### Day 32: February 8, 2017 ():
+### Day 40: February 16, 2017 ():
 
-**Today's Progress**: Algorithm and started "YDKJS: Types and Grammar" and "Data Structures and Algorithms with Javascript"
+**Today's Progress**: Advanced Algorithm
 
-**Thoughts**: More reading that coding, but still learning
-
-**Link(s) to work**: [Profile](https://github.com/BlueInked/)
-
-
-### Day 32: February 8, 2017 ():
-
-**Today's Progress**: Algorithm and started "YDKJS: Types and Grammar" and "Data Structures and Algorithms with Javascript"
-
-**Thoughts**: More reading that coding, but still learning
+**Thoughts**: Gonna probably take a rest from the algorithms
 
 **Link(s) to work**: [Profile](https://github.com/BlueInked/)
 
 
-### Day 32: February 8, 2017 ():
+### Day 41: February 17, 2017 ():
 
-**Today's Progress**: Algorithm and started "YDKJS: Types and Grammar" and "Data Structures and Algorithms with Javascript"
+**Today's Progress**: Dit some of the computer classes on FCC and a Practice JS exercise with objects
 
-**Thoughts**: More reading that coding, but still learning
+**Thoughts**: More reaing than coding
 
 **Link(s) to work**: [Profile](https://github.com/BlueInked/)
 
 
+### Day 41: February 17, 2017 ():
+
+**Today's Progress**: Dit some of the computer classes on FCC and a Practice JS exercise with objects
+
+**Thoughts**: More reaing than coding
+
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+
+
+### Day 41: February 17, 2017 ():
+
+**Today's Progress**: Dit some of the computer classes on FCC and a Practice JS exercise with objects
+
+**Thoughts**: More reaing than coding
+
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+
+
+### Day 41: February 17, 2017 ():
+
+**Today's Progress**: Dit some of the computer classes on FCC and a Practice JS exercise with objects
+
+**Thoughts**: More reaing than coding
+
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+
+
+### Day 41: February 17, 2017 ():
+
+**Today's Progress**: Dit some of the computer classes on FCC and a Practice JS exercise with objects
+
+**Thoughts**: More reaing than coding
+
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+
+
+### Day 41: February 17, 2017 ():
+
+**Today's Progress**: Dit some of the computer classes on FCC and a Practice JS exercise with objects
+
+**Thoughts**: More reaing than coding
+
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+
+
+### Day 41: February 17, 2017 ():
+
+**Today's Progress**: Dit some of the computer classes on FCC and a Practice JS exercise with objects
+
+**Thoughts**: More reaing than coding
+
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+
+
+### Day 41: February 17, 2017 ():
+
+**Today's Progress**: Dit some of the computer classes on FCC and a Practice JS exercise with objects
+
+**Thoughts**: More reaing than coding
+
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
