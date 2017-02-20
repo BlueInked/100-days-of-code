@@ -398,13 +398,13 @@
 **Link(s) to work**: [Profile](https://github.com/BlueInked/)
 
 
-### Day 41: February 17, 2017 ():
+### Day 44: February 20, 2017 (Example 26):
 
-**Today's Progress**: Dit some of the computer classes on FCC and a Practice JS exercise with objects
+**Today's Progress**: FCC and did Practice Python 18
 
-**Thoughts**: More reaing than coding
+**Thoughts**: Learned more about Python game making
 
-**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+**Link(s) to work**: [Cows and Bulls](python-pit/practice_python_excercises/cows_and_bulls.py)
 
 
 ### Day 41: February 17, 2017 ():
