@@ -407,22 +407,22 @@
 **Link(s) to work**: [Cows and Bulls](python-pit/practice_python_excercises/cows_and_bulls.py)
 
 
-### Day 41: February 17, 2017 ():
+### Day 45: February 21, 2017 (Example 27):
 
-**Today's Progress**: Dit some of the computer classes on FCC and a Practice JS exercise with objects
+**Today's Progress**: Practice Python and HackerEarth Problems
 
-**Thoughts**: More reaing than coding
+**Thoughts**: Learned a valuable lesson to keep chipping away at a problem instead of thinking things will just come to me.
 
-**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+**Link(s) to work**: [Webpage Decoded 2](python-pit/practice_python_excercises/webpage_decoded2.py)
 
 
-### Day 41: February 17, 2017 ():
+### Day 46: February 22, 2017 (Example 28):
 
-**Today's Progress**: Dit some of the computer classes on FCC and a Practice JS exercise with objects
+**Today's Progress**: Practice Python and Reading
 
-**Thoughts**: More reaing than coding
+**Thoughts**: Implementing a binary serch seemed stupid...well not stupid but not applicable in the problem set.
 
-**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+**Link(s) to work**: [Element Search](python-pit/practice_python_excercises/element_search.py)
 
 
 ### Day 41: February 17, 2017 ():
