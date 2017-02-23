@@ -420,18 +420,18 @@
 
 **Today's Progress**: Practice Python and Reading
 
-**Thoughts**: Implementing a binary serch seemed stupid...well not stupid but not applicable in the problem set.
+**Thoughts**: Implementing a binary search seemed stupid...well not stupid but not applicable in the problem set.
 
 **Link(s) to work**: [Element Search](python-pit/practice_python_excercises/element_search.py)
 
 
-### Day 41: February 17, 2017 ():
+### Day 47: February 23, 2017 ():
 
-**Today's Progress**: Dit some of the computer classes on FCC and a Practice JS exercise with objects
+**Today's Progress**: Finished DOM videos on FCC and worked on a binary search in python
 
-**Thoughts**: More reaing than coding
+**Thoughts**: This binary code is a headache and unfinished
 
-**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+**Link(s) to work**: [Not Yet]()
 
 
 ### Day 41: February 17, 2017 ():
