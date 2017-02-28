@@ -449,7 +449,7 @@
 
 **Thoughts**: Still chugging along
 
-**Link(s) to work**: [Konami Code](https://github.com/BlueInked/)
+**Link(s) to work**: [Konami Code](javascript-journey/30DaysofJavascript/index-KonamiCode_CA.html)
 
 
 ### Day 50: February 26, 2017 (Example 31):
@@ -458,7 +458,7 @@
 
 **Thoughts**: I still want to learn more about JS before going back to the algorithms in FCC
 
-**Link(s) to work**: [21](https://github.com/BlueInked/)
+**Link(s) to work**: [21](python-pit/practice_python_excercises/write_to_file.py)
 
 
 ### Day 51: February 27, 2017 (Example 32):
@@ -467,7 +467,7 @@
 
 **Thoughts**: More Python file work
 
-**Link(s) to work**: [22](https://github.com/BlueInked/)
+**Link(s) to work**: [22](python-pit/practice_python_excercises/read_from_file.py)
 
 
 ### Day 52: February 28, 2017 ():
