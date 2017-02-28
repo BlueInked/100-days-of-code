@@ -434,10 +434,131 @@
 **Link(s) to work**: [Not Yet]()
 
 
-### Day 41: February 17, 2017 ():
+### Day 48: February 24, 2017 (Example 29):
+
+**Today's Progress**: Did Practice Python Write to File Exercise
+
+**Thoughts**: I think I can understand how this exercise could have future applicationas far as backend things
+
+**Link(s) to work**: [Write to File](https://github.com/BlueInked/)
+
+
+### Day 49: February 25, 2017 (Example 30):
+
+**Today's Progress**: JS30 Konami Code
+
+**Thoughts**: Still chugging along
+
+**Link(s) to work**: [Konami Code](https://github.com/BlueInked/)
+
+
+### Day 50: February 26, 2017 (Example 31):
+
+**Today's Progress**: Finished Chrome Videos on FCC and Python Practice 21
+
+**Thoughts**: I still want to learn more about JS before going back to the algorithms in FCC
+
+**Link(s) to work**: [21](https://github.com/BlueInked/)
+
+
+### Day 51: February 27, 2017 (Example 32):
+
+**Today's Progress**: Did Practice Python 22
+
+**Thoughts**: More Python file work
+
+**Link(s) to work**: [22](https://github.com/BlueInked/)
+
+
+### Day 52: February 28, 2017 ():
+
+**Today's Progress**: JS30 15 and Practice Python 23
+
+**Thoughts**: This JS project was neat
+
+**Link(s) to work**: [Persistant Menu](https://github.com/BlueInked/)
+
+
+### Day 53: March 01, 2017 ():
 
 **Today's Progress**: Dit some of the computer classes on FCC and a Practice JS exercise with objects
 
 **Thoughts**: More reaing than coding
 
 **Link(s) to work**: [Profile](https://github.com/BlueInked/)
+
+
+### Day 53: March 01, 2017 ():
+
+**Today's Progress**: Dit some of the computer classes on FCC and a Practice JS exercise with objects
+
+**Thoughts**: More reaing than coding
+
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+
+
+### Day 53: March 01, 2017 ():
+
+**Today's Progress**: Dit some of the computer classes on FCC and a Practice JS exercise with objects
+
+**Thoughts**: More reaing than coding
+
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+
+
+### Day 53: March 01, 2017 ():
+
+**Today's Progress**: Dit some of the computer classes on FCC and a Practice JS exercise with objects
+
+**Thoughts**: More reaing than coding
+
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+
+
+### Day 53: March 01, 2017 ():
+
+**Today's Progress**: Dit some of the computer classes on FCC and a Practice JS exercise with objects
+
+**Thoughts**: More reaing than coding
+
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+
+
+### Day 53: March 01, 2017 ():
+
+**Today's Progress**: Dit some of the computer classes on FCC and a Practice JS exercise with objects
+
+**Thoughts**: More reaing than coding
+
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+
+
+### Day 53: March 01, 2017 ():
+
+**Today's Progress**: Dit some of the computer classes on FCC and a Practice JS exercise with objects
+
+**Thoughts**: More reaing than coding
+
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+
+
+### Day 53: March 01, 2017 ():
+
+**Today's Progress**: Dit some of the computer classes on FCC and a Practice JS exercise with objects
+
+**Thoughts**: More reaing than coding
+
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+
+
+### Day 53: March 01, 2017 ():
+
+**Today's Progress**: Dit some of the computer classes on FCC and a Practice JS exercise with objects
+
+**Thoughts**: More reaing than coding
+
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+
+
+
+
