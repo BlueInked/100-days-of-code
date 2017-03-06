@@ -481,59 +481,59 @@
 
 ### Day 53: March 01, 2017 ():
 
-**Today's Progress**: Dit some of the computer classes on FCC and a Practice JS exercise with objects
+**Today's Progress**: Big O Notation 
 
-**Thoughts**: More reaing than coding
-
-**Link(s) to work**: [Profile](https://github.com/BlueInked/)
-
-
-### Day 53: March 01, 2017 ():
-
-**Today's Progress**: Dit some of the computer classes on FCC and a Practice JS exercise with objects
-
-**Thoughts**: More reaing than coding
+**Thoughts**: Although I read this, I don' fully understand it
 
 **Link(s) to work**: [Profile](https://github.com/BlueInked/)
 
 
-### Day 53: March 01, 2017 ():
+### Day 54: March 02, 2017 ():
 
-**Today's Progress**: Dit some of the computer classes on FCC and a Practice JS exercise with objects
+**Today's Progress**: YDKJS Types and Grammr and Beginning JS
 
-**Thoughts**: More reaing than coding
-
-**Link(s) to work**: [Profile](https://github.com/BlueInked/)
-
-
-### Day 53: March 01, 2017 ():
-
-**Today's Progress**: Dit some of the computer classes on FCC and a Practice JS exercise with objects
-
-**Thoughts**: More reaing than coding
+**Thoughts**: More reading than coding
 
 **Link(s) to work**: [Profile](https://github.com/BlueInked/)
 
 
-### Day 53: March 01, 2017 ():
+### Day 55: March 03, 2017 ():
 
-**Today's Progress**: Dit some of the computer classes on FCC and a Practice JS exercise with objects
+**Today's Progress**: Beginning JS and Javascript: Novice to Ninja
 
-**Thoughts**: More reaing than coding
-
-**Link(s) to work**: [Profile](https://github.com/BlueInked/)
-
-
-### Day 53: March 01, 2017 ():
-
-**Today's Progress**: Dit some of the computer classes on FCC and a Practice JS exercise with objects
-
-**Thoughts**: More reaing than coding
+**Thoughts**: More reading than coding
 
 **Link(s) to work**: [Profile](https://github.com/BlueInked/)
 
 
-### Day 53: March 01, 2017 ():
+### Day 56: March 04, 2017 ():
+
+**Today's Progress**: Javascript Implicit and Explicit Coercion
+
+**Thoughts**: A dense chapter that basically informed me that it is better to explicit coerce things, though sometimes implicit coercion works out 
+
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+
+
+### Day 57: March 05, 2017 ():
+
+**Today's Progress**: Finished YDKJS: Types and Grammar
+
+**Thoughts**: An intermediate review of sorts
+
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+
+
+### Day 58: March 06, 2017 ():
+
+**Today's Progress**: Worked Practice Python Exercises in JS
+
+**Thoughts**: Gonna tryto do a fe more and then try to work problems in both languages
+
+**Link(s) to work**: [Python in JS](https://github.com/BlueInked/javascript-journey/practive_python_inJS)
+
+
+### Day 59: March 07, 2017 ():
 
 **Today's Progress**: Dit some of the computer classes on FCC and a Practice JS exercise with objects
 
