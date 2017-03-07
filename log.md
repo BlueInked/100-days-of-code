@@ -535,11 +535,11 @@
 
 ### Day 59: March 07, 2017 ():
 
-**Today's Progress**: Dit some of the computer classes on FCC and a Practice JS exercise with objects
+**Today's Progress**: Practice Python in JS again
 
-**Thoughts**: More reaing than coding
+**Thoughts**: Doing the Problems in both languages makes me think about the differences between the two and the similarities. 
 
-**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+**Link(s) to work**: [Python in JS](https://github.com/BlueInked/javascript-journey/practive_python_inJS)
 
 
 ### Day 53: March 01, 2017 ():
