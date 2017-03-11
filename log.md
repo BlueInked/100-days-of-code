@@ -542,7 +542,7 @@
 **Link(s) to work**: [Python in JS](https://github.com/BlueInked/javascript-journey/practive_python_inJS)
 
 
-### Day 53: March 01, 2017 ():
+### Day 60: March 08, 2017 ():
 
 **Today's Progress**: Dit some of the computer classes on FCC and a Practice JS exercise with objects
 
@@ -551,14 +551,37 @@
 **Link(s) to work**: [Profile](https://github.com/BlueInked/)
 
 
-### Day 53: March 01, 2017 ():
+### Day 61: March 09, 2017 ():
+
+**Today's Progress**: More Python in JS
+
+**Thoughts**: Helps with considerig the different ways to solve a problem
+
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+
+
+### Day 62: March 10, 2017 ():
+
+**Today's Progress**: Read from Beginning JS
+
+**Thoughts**: More reading than coding
+
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+
+
+### Day 63: March 11, 2017 ():
+
+**Today's Progress**: Did 2 more PPs i JS
+
+**Thoughts**: Gott fix the infinite loop
+
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+
+
+### Day 64: March 12, 2017 ():
 
 **Today's Progress**: Dit some of the computer classes on FCC and a Practice JS exercise with objects
 
 **Thoughts**: More reaing than coding
 
 **Link(s) to work**: [Profile](https://github.com/BlueInked/)
-
-
-
-
