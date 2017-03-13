@@ -580,8 +580,17 @@
 
 ### Day 64: March 12, 2017 ():
 
-**Today's Progress**: Dit some of the computer classes on FCC and a Practice JS exercise with objects
+**Today's Progress**: Started YDKJS: Scope and Closure
 
-**Thoughts**: More reaing than coding
+**Thoughts**: Reading
+
+**Link(s) to work**: [Profile](https://github.com/BlueInked/)
+
+
+### Day 65: March 13, 2017 ():
+
+**Today's Progress**: Did two versions of the Novice to Ninja Quiz 
+
+**Thoughts**: Recyclable code great!
 
 **Link(s) to work**: [Profile](https://github.com/BlueInked/)
